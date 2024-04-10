@@ -1,0 +1,16 @@
+{
+    "name": "eduardohor/buscador-cursos",
+    "description": "Buscador que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Eduardo Henrique",
+            "email": "eduardo.hor@outlook.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/dom-crawler": "^7.0.4",
+        "symfony/css-selector": "^7.0"
+    }
+}
